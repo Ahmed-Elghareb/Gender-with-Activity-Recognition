@@ -22,6 +22,7 @@ Data Visualization for MoVi data,
 <img src="https://github.com/saeed1262/MoVi-Toolbox/blob/352621e742ff8f745c3ada417d3db22d0ddf31ae/demo.gif" />
 </p>
 
+
 - Feature Selection <br>
 
 Using the synchronized videos, we monitored the beginning and the ending
@@ -76,6 +77,8 @@ between the clusters.
 |:---:|
 | Scatter Plot of 5 Samples of Acceleration Data For All Combinations in MotionSense dataset |
 
+### → It is worth to note that the cut and feature-extracted data are available upon request.
+
 ## Experinmental Setup
 
 A. Feature Extraction <br>
@@ -107,6 +110,5 @@ We explored the accuracy and F-measure for both datasets using RF, SVM, and CNN,
 
 <br>
 
-### → It is worth to note that the cut and feature-extracted data are available upon request.
-<!-- - The main.rar file includes the raw data extracted from the .mat files downloaded, while the FINAL.rar resembles the data overlapped preprocessed, and used for the training -->
 
+<!-- - The main.rar file includes the raw data extracted from the .mat files downloaded, while the FINAL.rar resembles the data overlapped preprocessed, and used for the training -->
